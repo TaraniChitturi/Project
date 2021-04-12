@@ -35,7 +35,7 @@ body {
 }
 </style>
 
-<title>User Help Page</title>
+<title>ALL HELP REQUESTS</title>
 </head>
 <body>
 	</div>
