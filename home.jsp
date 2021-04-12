@@ -47,7 +47,7 @@ body {
 					<div class="card-body">
 						<h3 class="card-title">${request.requestId}</h3>
 						<a href="/getDetails/${request.requestId}"
-							class="btn btn-dark stretched-link">See Profile</a>
+							class="btn btn-dark stretched-link">Open</a>
 					</div>
 				</div>
 			</c:forEach>
